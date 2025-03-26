@@ -1,0 +1,8 @@
+[
+    {
+        "pid": "0",
+        "raw_id": 0,
+        "question": "Get all available Revit Categories from the current model.",
+        "query": "Get all available Revit Categories from the current model."
+    }
+]

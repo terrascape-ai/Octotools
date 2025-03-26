@@ -1,0 +1,8 @@
+[
+    {
+      "pid": 0,
+      "query": "Generate a report on all curtain wall elements in the XYZ model.",
+      "image": "", 
+      "answer": "Curtain wall elements have been successfully extracted."
+    }
+  ]

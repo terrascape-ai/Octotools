@@ -1,0 +1,8 @@
+[
+    {
+      "pid": 0,
+      "query": "Get All Revit Categories from the current Revit model using the tool execution method which connect to Revit to get the required values without writting any C# code.",
+      "image": "", 
+      "answer": "Revit Categories been successfully identified."
+    }
+  ]

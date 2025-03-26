@@ -1,0 +1,24 @@
+{
+    "ELEM001": {
+        "geometry": {
+            "length": 12.5,
+            "width": 3.2,
+            "height": 4.1
+        },
+        "metadata": {
+            "material": "Aluminum",
+            "element_type": "Curtain Wall"
+        }
+    },
+    "ELEM002": {
+        "geometry": {
+            "length": 8.0,
+            "width": 2.5,
+            "height": 3.0
+        },
+        "metadata": {
+            "material": "Glass",
+            "element_type": "Window"
+        }
+    }
+}
